@@ -172,3 +172,9 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+#times {
+    background: url('../images/dublin-city.jpg') no-repeat center/cover;
+    width: 100%;
+    overflow: hidden;
+}
